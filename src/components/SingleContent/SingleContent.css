@@ -1,0 +1,72 @@
+/* Container styles */
+.content-container {
+  display: flex;
+  flex-direction: column;
+  width: 190px;
+  padding: 5px;
+  margin: 5px 0;
+  background-color: #99a4bc;
+  border-radius: 15px;
+  position: relative;
+  transition: background-color 0.3s;
+  cursor: pointer;
+}
+
+.content-container:hover {
+  background-color: whitesmoke;
+}
+
+@media (max-width: 550px) {
+  .content-container {
+    width: 46%;
+  }
+}
+
+/* Poster image styles */
+.poster {
+  max-width: 100%;
+  height: auto;
+  border-radius: 15px;
+  transition: transform 0.3s;
+  position: relative;
+}
+
+/* Increase size on hover */
+.content-container:hover .poster {
+  transform: scale(1.1);
+  z-index: 1; /* Move the poster to the background on hover */
+}
+/* Badge styles */
+.MuiBadge-badge {
+  /* This is the class name for the badge component */
+  position: relative;
+  /* top: 5px; */
+  right: 0;
+  z-index: 2; /* Ensure the badge appears above other elements */
+  transition: transform 0.5s ease; /* Add a transition for a smooth effect */
+}
+
+/* When .content-container is hovered, apply styles to .MuiBadge-badge */
+.content-container:hover .MuiBadge-badge {
+  transform: scale(1.1); /* Add your desired hover effect here */
+  top: -7.5px;
+}
+
+/* Title styles */
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 20px;
+  padding: 10px 0;
+  position: relative;
+  padding-top: 8%;
+}
+
+.subtitle {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 2px;
+  padding-bottom: 3px;
+  font-size: large;
+  font-weight: 400;
+}

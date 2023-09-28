@@ -1,0 +1,20 @@
+.header {
+  width: 100%;
+  cursor: pointer;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  background-color: #1e90ff;
+  font-family: "Libre Baskerville", serif;
+  font-size: 4vw;
+  padding-bottom: 15px 10px;
+  box-shadow: 0px 1px 5px black;
+  color: aliceblue;
+  z-index: 100;
+  top: 0; /* Ensure the header is at the top of the viewport */
+}
+
+/* Content area styles */
+.content {
+  margin-top: 80px; /* Adjust the value as needed */
+}
