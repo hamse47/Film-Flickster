@@ -1,4 +1,4 @@
- # Film Flickster - Movie App
+# Film Flickster - Movie App
 
 Film Flickster is a web application that allows users to discover and explore movies and TV shows. It provides information about popular movies, trending content, and allows users to search for their favorite films.
 
@@ -9,6 +9,22 @@ Film Flickster is a web application that allows users to discover and explore mo
 - Watch trailers for selected movies.
 - Search for movies and TV shows by title, genre, or keyword.
 - Stay up-to-date with trending content.
+
+## Screenshots
+
+Here are some screenshots of Film Flickster in action:
+
+### Trending Page
+![Trending Page](https://github.com/hamse47/film-flickster/assets/screenshots/trending.png)
+*Explore the latest trending movies and TV shows.*
+
+### Movie Page
+![Movie Page](https://github.com/hamse47/film-flickster/assets/screenshots/movie.png)
+*Filter movies by genre and find your favorites.*
+
+### Search Page
+![Search Page](https://github.com/hamse47/film-flickster/assets/screenshots/search.png)
+*Search for specific movies or TV shows.*
 
 ## Getting Started
 
