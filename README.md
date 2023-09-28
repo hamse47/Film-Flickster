@@ -15,15 +15,15 @@ Film Flickster is a web application that allows users to discover and explore mo
 Here are some screenshots of Film Flickster in action:
 
 ### Trending Page
-![Trending Page](https://github.com/hamse47/film-flickster/assets/screenshots/trending.png)
+![Trending Page](https://github-production-user-asset-6210df.s3.amazonaws.com/78507974/271329803-c4eb7da7-4e46-43f8-8942-a70975f47707.png)
 *Explore the latest trending movies and TV shows.*
 
 ### Movie Page
-![Movie Page](https://github.com/hamse47/film-flickster/assets/screenshots/movie.png)
+![Movie Page](https://github-production-user-asset-6210df.s3.amazonaws.com/78507974/271329993-cc247df8-9b27-4487-8845-13e3be647c4a.png)
 *Filter movies by genre and find your favorites.*
 
 ### Search Page
-![Search Page](https://github.com/hamse47/film-flickster/assets/screenshots/search.png)
+![Search Page](https://github-production-user-asset-6210df.s3.amazonaws.com/78507974/271330084-933377c9-b2c5-4b7d-b0c5-126811ca27b9.png)
 *Search for specific movies or TV shows.*
 
 ## Getting Started
