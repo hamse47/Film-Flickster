@@ -81,6 +81,7 @@
     width: 58%;
     padding: 0;
     height: 100%;
+    font-weight: 500;
   }
   .ContentModal__title {
     font-size: 2vw;
@@ -90,7 +91,7 @@
     font-weight: bold;
   }
   .ContentModal__description {
-    font-size: 17px;
-    font-weight: bolder;
+    font-size: 18px;
+    /* font-weight: bolder; */
   }
 }

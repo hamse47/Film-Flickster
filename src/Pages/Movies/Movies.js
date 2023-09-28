@@ -5,7 +5,6 @@ import CustomPagination from "../../components/Pagination/CustomPagination";
 import axios from "axios";
 import Genres from "../../components/Genres/Genres";
 
-// Define the Movie component
 function Movie() {
   const [page, setPage] = useState(1); // State variable for current page
   const API_KEY = process.env.REACT_APP_API_KEY; // API key stored in environment variables
