@@ -10,6 +10,8 @@ Film Flickster is a web application that allows users to discover and explore mo
 - Search for movies and TV shows by title, genre, or keyword.
 - Stay up-to-date with trending content.
 
+## 🚀Checkout my Website - https://flim-flickster.netlify.app/
+
 ## Screenshots
 
 Here are some screenshots of Film Flickster in action:
